@@ -5,13 +5,13 @@
 
 ## Recent Projects
 
- **[Ⓜ️ mcli](https://github.com/itsalexr/mcli)** | CLI for Monday.com
- **[🟦 Qwen Tetris](https://github.com/itsalexr/qwen-tetris-game)** | A 1-shot Tetris clone by locally running Qwen3.6-27b | [LinkedIn post 1/2](https://www.linkedin.com/feed/update/urn:li:activity:7462719382775828480/) | [LinkedIn post 2/2](https://www.linkedin.com/posts/al3xreznik_hey-local-ai-build-me-a-tetris-clone-ugcPost-7462929487563751425-H_0X)
- **[🤖 Autoresearch](https://github.com/itsalexr/autoresearch)** | My fork of @karpathy Autoresearch repo that works on multiple GPU | [LinkedIn post](https://www.linkedin.com/posts/al3xreznik_i-tweaked-andrej-karpathys-autoresearch-activity-7440201398794899456-JRya)
+ - **[Ⓜ️ mcli](https://github.com/itsalexr/mcli)** | CLI for Monday.com
+ - **[🟦 Qwen Tetris](https://github.com/itsalexr/qwen-tetris-game)** | A 1-shot Tetris clone by locally running Qwen3.6-27b | [LinkedIn post 1/2](https://www.linkedin.com/feed/update/urn:li:activity:7462719382775828480/) | [LinkedIn post 2/2](https://www.linkedin.com/posts/al3xreznik_hey-local-ai-build-me-a-tetris-clone-ugcPost-7462929487563751425-H_0X)
+ - **[🤖 Autoresearch](https://github.com/itsalexr/autoresearch)** | My fork of @karpathy Autoresearch repo that works on multiple GPU | [LinkedIn post](https://www.linkedin.com/posts/al3xreznik_i-tweaked-andrej-karpathys-autoresearch-activity-7440201398794899456-JRya)
  
  ## Old stuff
- **[Telegram Stats](https://github.com/itsalexr/telegram-stats)** | Simple script that does sentiment analisys on a telegram group chat export using OpenAI's batch API
- **[GPT Email](https://github.com/itsalexr/gptemail)** | GPT Email summarizer. Used this as a test project to test GPT4 vibe-coding capabilities in 2023 | [LinkedIn post](https://www.linkedin.com/pulse/i-used-ai-build-simple-ai-powered-tool-without-writing-alex-reznik/)
+ - **[Telegram Stats](https://github.com/itsalexr/telegram-stats)** | Simple script that does sentiment analisys on a telegram group chat export using OpenAI's batch API
+ - **[GPT Email](https://github.com/itsalexr/gptemail)** | GPT Email summarizer. Used this as a test project to test GPT4 vibe-coding capabilities in 2023 | [LinkedIn post](https://www.linkedin.com/pulse/i-used-ai-build-simple-ai-powered-tool-without-writing-alex-reznik/)
 
  ## Connect
 
