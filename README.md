@@ -2,7 +2,7 @@
 
 📍 **Pudozh, Karelia -> Bay Area, California -> Cameron Park, California**
 
-🤖 **AI-first builder** | 🚀 **Ex-Happyverse.ai Co-Founder/CTO** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: -1px;" /> **[Ex-LinkedIn](https://linkedin.com/in/al3xreznik)**
+🤖 **AI-first builder** | 🚀 **Ex-Happyverse.ai Co-Founder/CTO** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" /> **[Ex-LinkedIn](https://linkedin.com/in/al3xreznik)**
 
 ## Recent Projects
 
